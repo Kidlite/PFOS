@@ -1,4 +1,4 @@
-# Welcome to [PFOS](https://github.com/Kidlite/PFOS/)
+﻿# Welcome to [PFOS](https://github.com/Kidlite/PFOS/)
 
 一个小操作系统，运行在树莓派
 
@@ -8,6 +8,12 @@
 ### 2018年1月4日
 
 项目已经开始几天了，我把一些重要的东西记录在这里。
+
+![截图](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/002.jpg)
+
+
+
+
 
 
 
