@@ -1,12 +1,11 @@
-## Welcome to [PFOS](https://github.com/Kidlite/PFOS/)
+# Welcome to [PFOS](https://github.com/Kidlite/PFOS/)
 
 一个小操作系统，运行在树莓派
 
-# 标题1
 
-## 标题2
+## 日志
 
-## 标题3
+### 项目开始
 
 
 
