@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to PFOS(https://github.com/Kidlite/PFOS/)
+
+一个小操作系统，运行在树莓派
+
+
 
 You can use the [editor on GitHub](https://github.com/Kidlite/PFOS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
