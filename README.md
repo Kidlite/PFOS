@@ -2,7 +2,7 @@
 
 一个小操作系统，运行在树莓派3。交流请加QQ群：377289693
 
-[QQ群](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/other/qq_qun.png)
+![QQ群](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/other/qq_qun.png)
 
 
 
