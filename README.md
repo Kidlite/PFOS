@@ -9,8 +9,9 @@
 
 项目已经开始几天了，我把一些重要的东西记录在这里。
 
-![截图](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/002.jpg)
-
+![1](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/001.jpg)
+![2](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/002.jpg)
+![3](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/003.jpg)
 
 
 
