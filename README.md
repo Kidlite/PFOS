@@ -24,6 +24,14 @@
 3.运行在电视机上
 ![3](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/003.jpg)
 
+4.画一个矩形
+![3](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/004.jpg)
+
+5.信息调试
+![3](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/005.jpg)
+
+6.读取Fat32文件系统
+![3](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/006.jpg)
 
 ## 问题
 
