@@ -36,6 +36,9 @@
 
 7.GPU加速
 ![7](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/007.jpg)
+![8](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/008.jpg)
+![9](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/009.jpg)
+![10](https://raw.githubusercontent.com/Kidlite/PFOS/master/images/screenshot/010.jpg)
 
 ## 问题
 
